@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Projeto Desktop 💻
 
 ### Função Adicionar ➕
@@ -34,6 +33,3 @@
 ### Função Excluir ❌
 
 <img src="public/Assets/gifs/Mobile-device/delete/Mobile-delete.gif">
-=======
-
->>>>>>> bb9a80781bc232e101fba4f2f20beda3e42befbc
