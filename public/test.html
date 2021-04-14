@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap" rel="stylesheet">
+  <title>YourAnimeList</title>
+</head>
+<body>
+  <header>
+    <div class="div-header">
+      <img alt="akatsuki" src="https://cdn.discordapp.com/attachments/232198943964921856/829069028165287976/Testzin.png" class="akatsuki img-header-1">
+      <h1 class="h1-header"><span class="span-header">Your</span> Anime <span class="span-header">List</span></h1>
+      <img alt="akatsuki" src="https://cdn.discordapp.com/attachments/232198943964921856/829069028165287976/Testzin.png" class="akatsuki img-header-2">
+
+    </div>
+
+    <style>
+      .akatsuki {
+        -moz-background-clip: transparent;
+        animation: imageanime 5s infinite alternate ease-out
+      }
+
+      @keyframes imageanime {
+        from{
+          filter:  invert(0%) sepia(0%) saturate(0%)  brightness(100%) contrast(100%) ;
+        }
+        
+        to {
+          filter:  invert(70%) sepia(80%) saturate(6402%)  brightness(70%) contrast(100%);
+        }
+      }
+    </style>
+
+    <div class="div-text-header">
+      <span>Faça uma lista, Relembre e <br> Assista</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="content-btn">
+      <div class="div-btn">
+        <a href="/favorite" class="btn-favorite">Favoritos <span class="material-icons md-48">star_rate</span></a>
+        <a href="/add" class="btn-add">Adicionar<span class="material-icons md-48">add</span></a>
+      </div>
+    </div>
+  
+    
+    <div class="content">
+      <div class="anime" id="asdasd123">
+        <div class="image-anime">
+          <img src="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-15-11-40/np_file_54218.jpeg/EG11/thumbnail/750x422/format/jpg/quality/60" alt="">
+        </div>
+        <div class="content-anime">
+          <h1>Demon Slayer</h1>
+          <h2>Anime bom que vi no google, assisti e é um dos melhores fi</h2>
+        </div> 
+        <button class="btn-content-edit"><span class="material-icons md-48">edit</span></button>
+        <button class="btn-content-delete"><span class="material-icons md-48">clear</span></button>
+        <button class="btn-content-favorite"><span class="material-icons md-48">star_rate</span></button>
+      </div>
+
+      <div class="anime" id="asdfga23">
+        <div class="image-anime">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU" alt="">
+        </div>
+        <div class="content-anime">
+          <h1>Naruto</h1>
+          <h2>Narutim :(((( turu ruuuuuu turu ruuuuuu ru tuuuuu du ru ru ruuuuuu</h2>
+        </div> 
+        <button class="btn-content-edit"><span class="material-icons md-48">edit</span></button>
+        <button class="btn-content-delete"><span class="material-icons md-48">clear</span></button>
+        <button class="btn-content-favorite"><span class="material-icons md-48">star_rate</span></button>
+      </div>
+
+      <div class="anime" id="adsff234">
+        <div class="image-anime">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU" alt="">
+        </div>
+        <div class="content-anime">
+          <h1>Naruto</h1>
+          <h2></h2>
+        </div> 
+        <button class="btn-content-edit"><span class="material-icons md-48">edit</span></button>
+        <button class="btn-content-delete"><span class="material-icons md-48">clear</span></button>
+        <button class="btn-content-favorite"><span class="material-icons md-48">star_rate</span></button>
+      </div> 
+
+      
+  
+  <script src="script.js"></script>
+</body>
+</html>
