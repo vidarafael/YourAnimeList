@@ -1,3 +1,10 @@
+# Projeto
+
+<img src="extra-device-image.png">
+<img src="mobile-device-image.png">
+
+<hr>
+
 ## Projeto Desktop 💻
 
 ### Função Adicionar ➕
