@@ -2,11 +2,11 @@
 
 ## Desktop 💻
 
-<img src="public/Assets/read-image/extra-device-image.png" width="450" height="600">
+<img src="public/Assets/read-image/extra-device-image.png" width="450">
 
 ## Mobile 📱
 
-<img src="public/Assets/read-image/mobile-device-image.png" width="400" height="500">
+<img src="public/Assets/read-image/mobile-device-image.png" width="400">
 
 <hr>
 
