@@ -1,7 +1,7 @@
 # Projeto
 
-<img src="extra-device-image.png">
-<img src="mobile-device-image.png">
+<img src="public/Assets/read-image/extra-device-image.png">
+<img src="public/Assets/read-image/mobile-device-image.png">
 
 <hr>
 
