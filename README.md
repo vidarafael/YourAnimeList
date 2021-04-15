@@ -1,4 +1,4 @@
-# YourAnimeList
+# 🎈 YourAnimeList 🎈
 
 ## Desktop 💻
 
