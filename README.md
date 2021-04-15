@@ -1,4 +1,4 @@
-# Projeto
+# YourAnimeList
 
 ## Desktop 💻
 
@@ -45,3 +45,46 @@
 ### Função Excluir ❌
 
 <img src="public/Assets/gifs/Mobile-device/delete/Mobile-delete.gif">
+
+# Tecnologias 🚀
+
+**_Obs: para o projeto rodar é necessário possuir:_**
+
+- Visual Studio Code
+- Node.js
+- yarn
+- Git
+
+**Front-end**
+
+- ejs: **Template Engine**
+- javascript
+
+**Back-end**
+
+- node.js
+- express
+- moongose
+- mongoDB: **Banco de Dados**
+
+# Como Iniciar o Projeto 👨🏻‍💻
+
+```
+# Para clonar o repositório:
+$ git clone https://github.com/vidarafael/YourAnimeList.git
+
+# Acesse a pasta do projeto no terminal
+$ cd YourAnimeList
+
+# Abrindo o Projeto no Visual Studio
+$ code .
+
+# Instale as dependências com npm
+$ yarn install
+
+# Execute a aplicação
+$ node app
+
+# Após isso o servidor iniciará na porta: 3333
+# acesse http://localhost:3333
+```
