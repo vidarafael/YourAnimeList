@@ -1,7 +1,9 @@
 # Projeto
 
-<img src="public/Assets/read-image/extra-device-image.png">
-<img src="public/Assets/read-image/mobile-device-image.png">
+Desktop 💻
+<img src="public/Assets/read-image/extra-device-image.png" width="450">
+Mobile 📱
+<img src="public/Assets/read-image/mobile-device-image.png" width="400">
 
 <hr>
 
