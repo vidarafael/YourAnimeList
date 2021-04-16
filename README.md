@@ -10,6 +10,14 @@
 
 <hr>
 
+# Descrição 📝
+
+Projeto de Listas, ele é um CRUD então o usuário possui a liberdade de criar, ler, editar e deletar, essa é a primeira versão do **_"YourAnimeList V 1.0"_**
+Pretendo adicionar:
+
+- Autenticação do Usuário
+- Compartilhamento da Lista de Favoritos
+
 ## Projeto Desktop 💻
 
 ### Função Adicionar ➕
