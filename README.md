@@ -6,7 +6,7 @@
 
 ## Mobile 📱
 
-<img src="public/Assets/read-image/mobile-device-image.png" width="400">
+<img src="public/Assets/read-image/mobile-device-image.png" width="400" height="80%">
 
 <hr>
 
