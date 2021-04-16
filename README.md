@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-<img src="public/Assets/read-image/extra-device-image.png" width="450">
+<img src="public/Assets/read-image/extra-device-image.png" width="100%">
 
 ## Mobile 📱
 
@@ -17,6 +17,8 @@ Pretendo adicionar:
 
 - Autenticação do Usuário
 - Compartilhamento da Lista de Favoritos
+
+<hr>
 
 ## Projeto Desktop 💻
 
