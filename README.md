@@ -89,7 +89,7 @@ $ cd YourAnimeList
 # Abrindo o Projeto no Visual Studio
 $ code .
 
-# Instale as dependências com npm
+# Instale as dependências com yarn
 $ yarn install
 
 # Execute a aplicação
