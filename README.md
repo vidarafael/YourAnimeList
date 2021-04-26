@@ -90,7 +90,7 @@ $ cd YourAnimeList
 $ code .
 
 # Instale as dependências com yarn
-$ yarn install
+$ yarn 
 
 # Execute a aplicação
 $ node app
