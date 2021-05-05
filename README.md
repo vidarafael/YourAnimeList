@@ -24,7 +24,8 @@ Pretendo adicionar:
 
 ### Função Adicionar ➕
 
-<img src="public/Assets/gifs/Extra-device/add/Extra-add.gif">
+![ToAnimeList21-03-2021](https://user-images.githubusercontent.com/73259242/117209870-56237f80-adcd-11eb-901d-1ad7f877d8f9.gif)
+
 
 ### Função Editar 🖊️
 
