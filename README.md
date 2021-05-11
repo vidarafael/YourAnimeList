@@ -26,7 +26,6 @@ Pretendo adicionar:
 
 ![ToAnimeList21-03-2021](https://user-images.githubusercontent.com/73259242/117209870-56237f80-adcd-11eb-901d-1ad7f877d8f9.gif)
 
-
 ### Função Editar 🖊️
 
 <img src="public/Assets/gifs/Extra-device/edit/Extra-edit.gif">
@@ -91,7 +90,7 @@ $ cd YourAnimeList
 $ code .
 
 # Instale as dependências com yarn
-$ yarn 
+$ yarn
 
 # Execute a aplicação
 $ node app
